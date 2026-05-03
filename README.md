@@ -11,7 +11,7 @@
 - 💾 数据持久化（浏览器localStorage）
 
 ## 运行方式
-直接双击 `课程表App.html` 文件，在浏览器中打开即可使用。
+直接双击 https://wan657-0.github.io/CourseSchedule-App/ScheduleApp.html链接，在浏览器中打开即可使用。
 
 ## 技术栈
 - HTML5
