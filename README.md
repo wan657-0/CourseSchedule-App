@@ -19,6 +19,4 @@
 - JavaScript ES6
 - localStorage
 
-## 作者
-- 姓名：[你的名字]
-- 学号：[你的学号]
+
